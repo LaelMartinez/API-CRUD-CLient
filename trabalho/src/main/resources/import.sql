@@ -1,0 +1,11 @@
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Lael Martinez Jr'  ,  '287.121.748-31' , 5000, TIMESTAMP WITH TIME ZONE '1980-11-02T20:50:07.12345Z', 3 );
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Handell Patrick'   ,  '111.111.111-01' , 3000, TIMESTAMP WITH TIME ZONE '1985-11-15T20:50:07.12345Z', 2 );
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Andressa Raissa'   ,  '222.222.222-02' , 2600, TIMESTAMP WITH TIME ZONE '1987-04-08T20:50:07.12345Z', 1 );
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Alana Blanche'     ,  '333.333.333-03' , 2500, TIMESTAMP WITH TIME ZONE '1983-11-16T20:50:07.12345Z', 0 );
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Thiago Algaba'     ,  '444.444.444-04' , 3000, TIMESTAMP WITH TIME ZONE '1983-11-17T20:50:07.12345Z', 0 );
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Bruna Lima'        ,  '555.555.555-05' , 4000, TIMESTAMP WITH TIME ZONE '1987-09-18T20:50:07.12345Z', 2 );
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Pablo Jordan'      ,  '666.666.666-06' , 3000, TIMESTAMP WITH TIME ZONE '1990-11-03T20:50:07.12345Z', 1 );
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Neemias de França' ,  '777.777.777-07' , 8000, TIMESTAMP WITH TIME ZONE '1960-01-01T20:50:07.12345Z', 4 );
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Katia de França'   ,  '888.888.888-08' , 4500, TIMESTAMP WITH TIME ZONE '1970-12-01T20:50:07.12345Z', 4 );
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Ana Salete'        ,  '999.999.999-09' , 2500, TIMESTAMP WITH TIME ZONE '1972-02-01T20:50:07.12345Z', 4 );
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Lael Martinez '    ,  '100.100.100-10' , 2500, TIMESTAMP WITH TIME ZONE '1965-03-28T20:50:07.12345Z', 4 );
